@@ -8,9 +8,6 @@ website:
     left:
       - href: index.qmd
         text: Página Principal
-    right:
-      - icon: github
-        href: https://github.com
   sidebar:
     style: "docked"
     search: true
