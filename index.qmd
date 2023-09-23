@@ -1,20 +1,34 @@
 ---
-title: "Análise Multivariada"
+title: "Análise Multivariada - 2023/2"
 subtitle: "Disciplina Optativa do Bacharelado em Adminstração"
 lang: "pt"
 ---
 
-Dias/Horários: **Date and time**
+<a href = "https://washingtonsilva.github.io" target="_blank">Prof. Dr. 
+Washington Santos da Silva</a>.
 
-Laboratório: **Location**
+::: {.callout-note}
+# Logística
 
-Prof. Dr. Washington Santos da Silva
+|    Dia           |  Horário          |
+|:----------------:|:-----------------:|
+| **Quarta-Feira** | **20:40 - 22:40** |
+| **Quinta-Feira** | **18:30 - 20:30** |
 
-------------------------------------------------------------------------
+
+Laboratório de Informática: **3 - Bloco B - 2$^o$ andar**
+:::
 
 # Bem vindo!
 
-- O objetivo desta disciplina é 
+O objetivo geral desta disciplina é capacitar os estudantes na aplicação dos métodos básicos de estatística multivariada comumente aplicados a problemas da área de administração. 
+
+Os objetivos específicos são:
+
+- Capacitar os estudantes para a aplicação das metodologias de análise de   agrupamento, análise de componentes principais, análise fatorial e análise discriminante a problemas da área de administração. 
+
+- Capacitar os estudantes no uso da linguagem R para a aplicação dos métodos 
+de análise multivariada.
 
 
 # Plano de Aula
