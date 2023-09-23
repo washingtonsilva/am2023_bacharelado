@@ -1,0 +1,30 @@
+---
+title: "Análise Multivariada"
+subtitle: "Disciplina Optativa do Bacharelado em Adminstração"
+lang: "pt"
+---
+
+Dias/Horários: **Date and time**
+
+Laboratório: **Location**
+
+Prof. Dr. Washington Santos da Silva
+
+------------------------------------------------------------------------
+
+# Bem vindo!
+
+- O objetivo desta disciplina é 
+
+
+# Plano de Aula
+
+::: callout-tip
+## Materiais 
+
+:::
+
+|    Dia     |                       Tópico                                  |
+|:----------:|:-------------------------------------------------------------:|
+|    27/09   | [Aula 14: Análise de Componentes Principais](part_1_prep.qmd) |  
+|    28/09   | [Aula 15: Análise de Componentes Principais](part_2_eda.qmd)  | 
